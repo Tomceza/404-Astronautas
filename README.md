@@ -13,7 +13,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://tomceza.github.io/404-Astronautas/
 
-Design: @Significa (https://dribbble.com/shots/5819172-OpenNode-404)
+Design: Uran Duo (https://dribbble.com/shots/5964475-404-Lost-in-Space)
 
 ## Goals and features
 
